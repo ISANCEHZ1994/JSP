@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JSP DEMO</title>
+<title>HELLO JSP DEMO</title>
 </head>
 <body>
 	<h1>Hello World of Java!</h1>
@@ -16,6 +16,8 @@
 	<p>25 multiplied by 4 equals: <%= 25 * 4 %> </p>
 	<br></br>
 	Is 75 less than 69? <%= 75 < 69 %> --%>
+	<a href="/jspdemo/scriptlet-test.jsp">scriptlet Page!</a>
+	
 </body>
 </html>
 

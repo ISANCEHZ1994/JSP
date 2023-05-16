@@ -13,5 +13,8 @@
 	<p>25 multiplied by 4 equals: <%= 25 * 4 %> </p>
 	<br></br>
 	Is 75 less than 69? <%= 75 < 69 %>
+	<br></br>
+	<a href="/jspdemo/helloWorld.jsp">To expressions</a>
+	<a href="/jspdemo/scriptlet-test.jsp">scriptlet</a>
 </body>
 </html>
