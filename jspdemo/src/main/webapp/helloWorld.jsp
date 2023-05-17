@@ -17,7 +17,6 @@
 	<br></br>
 	Is 75 less than 69? <%= 75 < 69 %> --%>
 	<a href="/jspdemo/scriptlet-test.jsp">scriptlet Page!</a>
-	
 </body>
 </html>
 
